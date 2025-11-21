@@ -1,0 +1,39 @@
+#one{
+    background-color: rgb(250, 7, 238) ;
+    height: 100px;
+    width: 100px;
+    border: 3px solid rgb(15, 15, 15) ;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: underline;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 5%;
+    padding: 50;
+}
+#two{
+    height: 100px;
+    width: 100px;
+    background-color: greenyellow;
+    border-radius: 50%;
+}
+
+
+#navi{
+    height: 60px;
+    background-color: black;
+}
+
+#logo{
+    color:yellow;
+    font-size: 25px;
+}
+
+button{
+    background-color: yellow;
+}
+
+a{
+    color: white;
+    margin-right: 200px;
+    text-decoration: none;
+}

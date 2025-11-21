@@ -1,0 +1,69 @@
+#one{
+    text-align: center;
+    text-transform: capitalize;
+}
+body{
+    background-color: rgb(37, 36, 36);
+    color: yellow;
+}
+*{
+    font-family: 'Times New Roman', Times, serif;
+    padding: 0;
+    margin: 0;
+    color: white;
+}
+#outer{
+    font-size: 25px;
+}
+#inner{
+    font-size: 10px;
+}
+#box{
+    height: 150px;
+    width: 150px;
+    background-color: antiquewhite;
+    color: blueviolet;
+    border: 2px dashed rgb(9, 7, 2) ;
+    border-radius: 25px;
+}
+/*This is about padding and margin*/
+#margin{
+    height: 200px;
+    width: 200px;
+    color: rgb(230, 61, 61);
+    background-color: rgb(25, 19, 19);
+    border: 2px solid blue;
+    border-radius: 25px;
+    padding: 2px 10px 10px 25px;
+    margin: 10px;
+}
+#qone{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    border-radius: 50%;
+    padding-left: 10px ;
+}
+#qtwo{
+    background-color: black;
+    height: 60px;
+
+}
+#button{
+    background-color: rgb(246, 190, 6);
+    color: white;
+}
+#qtwosubone{
+    color: rgb(242, 195, 8);
+    margin-right: 200px;
+
+} 
+#qtwosubtwo{
+    margin-right: 200px;
+}
+#qtwosubthree{
+    margin-right: 200px;
+}
+#qtwosubfour{
+    margin-right: 200px;
+}

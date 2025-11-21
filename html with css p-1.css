@@ -1,0 +1,61 @@
+/*
+this is a style sheet for html page (css with html.html)*/
+/*Universal selector */
+*{
+    color: cadetblue;
+}
+/*element selector*/
+h1{
+    color: blue;
+}
+/*id selector */
+#one{
+    color: darkorange;
+}
+/*class selector */
+.myclass{
+    color: yellow;
+}
+/*main background colour to dark mode */
+body{
+    background-color: black;
+}
+/*changing button background and foreground colour */
+button{
+    background-color: bisque;
+    color:blue;
+}
+/*text-align has three variations centre,left,right*/
+#text{
+    text-align: center;
+}
+
+#lorem{
+    text-align: start;
+}
+/*text-decorator underline,overline,line-through*/
+#decorator{
+    text-decoration: blue underline dotted;
+}
+/*font weight: normal / bold / bolder / lighter
+font-weight : 100-900
+
+font-weight is to show how dark or light our text is
+it can be names or in terms of numbers
+values from 100 to 900*/
+#headingone{
+    font-weight: lighter;
+}
+#headingtwo{
+    font-weight: bolder;
+}
+#headingthree{
+    font-weight: 900;
+}
+#ten{
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 20px;
+    text-transform: capitalize;
+}
+
+
